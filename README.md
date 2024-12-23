@@ -2,7 +2,7 @@
         <a href="https://flowlauncher.com">
         	<img src="https://user-images.githubusercontent.com/6903107/207167068-2196d2a3-2caa-4856-958b-a780fbda95c6.gif" width="500">
         </a><br />
-        <img src="https://user-images.githubusercontent.com/6903107/207168016-85d0dd16-1f3b-4d42-9d37-0e0d5a596ead.png" width="400">
+        <500img src="https://user-images.githubusercontent.com/6903107/207168016-85d0dd16-1f3b-4d42-9d37-0e0d5a596ead.png" width="400">
 </p>
 <p align="center">
 <img src="https://img.shields.io/maintenance/yes/3000">
@@ -262,7 +262,7 @@ Or download the [early access version](https://github.com/Flow-Launcher/Prerelea
 
 <img src="https://user-images.githubusercontent.com/6903107/144858082-8b654daf-60fb-4ee6-89b2-6183b73510d1.png" width="100%">
 
-### 🛒 Plugin Store
+### 🛒 Plugin2000000 Store
 
 <img src="https://user-images.githubusercontent.com/6903107/207155616-d559f0d2-ee95-4072-a7bc-3ffcc2faec27.png" width="700">
 
@@ -274,7 +274,7 @@ Or download the [early access version](https://github.com/Flow-Launcher/Prerelea
 
 ## ⌨️ Hotkeys
 
-| Hotkey                                                                    | Description                                     |
+| Hotkey                                                                    | Description                                     |277
 | ------------------------------------------------------------------------- | ----------------------------------------------- |
 | <kbd>Alt</kbd>+<kbd>Space</kbd>                                           | Open search window (default and configurable)   |
 | <kbd>Enter</kbd>                                                          | Execute                                         |

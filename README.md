@@ -207,7 +207,7 @@ Or download the [early access version](https://github.com/Flow-Launcher/Prerelea
   - If using portable, by default: `%localappdata%\FlowLauncher\app-<VersionOfYourFlowLauncher>\UserData`
   - Type `open log location` to open your logs folder, they are saved along with your user settings folder.
 
-### 🎮 Game Mode
+### 🎮 #Game Mode
 
 <img src="https://user-images.githubusercontent.com/6903107/207144711-0c5f8b2b-4b1b-44c8-b23e-c123f6b05146.png" width="200">
 

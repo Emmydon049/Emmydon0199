@@ -68,7 +68,7 @@ Or download the [early access version](https://github.com/Flow-Launcher/Prerelea
 
 <img src="https://user-images.githubusercontent.com/6903107/144858082-8b654daf-60fb-4ee6-89b2-6183b73510d1.png" width="100%">
 
-## 🎁 Features
+        ### 🎁 Features
 
 ### Applications & Files
 

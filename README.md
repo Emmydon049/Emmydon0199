@@ -323,7 +323,7 @@ Or download the [early access version](https://github.com/Flow-Launcher/Prerelea
 | Flow Launcher UserData Folder      | Open the location where Flow Launcher's settings are stored                 |
 | Toggle Game Mode                   | Toggle Game Mode                                                            |
 
-### 💁‍♂️ Tips
+### 💁‍♂️ ###Tips
 
 - [More tips](https://flowlauncher.com/docs/#/usage-tips)
 
